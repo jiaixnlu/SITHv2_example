@@ -1,5 +1,4 @@
-clc
-clear 
+clc, clear;
 
 % Set spatial resolution
 res = 0.1; % degrees, global
